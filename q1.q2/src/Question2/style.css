@@ -2,7 +2,7 @@
     margin: 0;
     width:100%;
     height:100%;
-    padding:5px 50px;
+    padding:5px 51px;
     display:grid;
     grid-template-columns: 30% 30% 30%;
     grid-gap:50px;
